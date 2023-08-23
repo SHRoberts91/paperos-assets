@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Old-Explorations" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(-28.000000, -11.000000)" filter="url(#filter-1)">
+            <g transform="translate(28.298395, 11.298393)" id="Group" fill="#333333" fill-rule="nonzero">
+                <path d="M19.3698305,5.74525038 L5.74525038,5.74525038 L5.74525038,33.2797231 L33.2797231,33.2797231 L33.2797231,19.6551429 L19.3698305,5.74525038 Z M18.1798515,8.61774357 L30.407037,20.8449291 L30.407037,30.4070365 L8.61774402,30.4070365 L8.61774402,8.61774357 L18.1798515,8.61774357 Z" id="Rectangle-2" transform="translate(19.512487, 19.512487) rotate(-45.000000) translate(-19.512487, -19.512487) "></path>
+                <path d="M19.1680841,5.74525038 L5.74525038,5.74525038 L5.74525038,33.2797231 L33.2797231,33.2797231 L33.2797231,19.8568893 L19.1680346,19.856746 L19.1680841,5.74525038 Z M16.2954094,8.61774357 L16.2954589,22.7295145 L30.407037,22.7293712 L30.407037,30.4070365 L8.61774402,30.4070365 L8.61774402,8.61774357 L16.2954094,8.61774357 Z" id="Rectangle-2-Copy" transform="translate(19.512487, 19.512487) rotate(-45.000000) translate(-19.512487, -19.512487) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
